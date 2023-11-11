@@ -1,8 +1,20 @@
-**I. Impact of Supply Chain Visibility Tool on Lead Times** 
+I. Impact of Supply Chain Visibility Tool on Lead Times
 Null Hypothesis (H0): 
 There is no significant reduction in lead times after implementing the supply chain visibility tool. 
-In simpler terms, the null hypothesis suggests that any observed changes in lead times after implementing the supply chain visibility tool are not statistically significant. In other words, the tool does not have a meaningful impact on 
-reducing lead times. 
+In simpler terms, the null hypothesis suggests that any observed changes in lead times after implementing the supply chain visibility tool are not statistically significant. In other words, the tool does not have a meaningful impact on reducing lead times. 
 Alternative Hypothesis (H1): 
 There is a significant reduction in lead times after implementing the supply chain visibility tool. 
 The alternative hypothesis proposes the opposite — it asserts that there is a meaningful and statistically significant reduction in lead times resulting from the implementation of the supply chain visibility tool. 
+
+II. Impact of Demand Forecasting Algorithms on Inventory Management 
+Null Hypothesis (H0): 
+Implementing demand forecasting algorithms does not lead to a significant improvement in inventory management. 
+The null hypothesis posits that the introduction of demand forecasting algorithms has no substantial effect on enhancing inventory management. In simpler terms, any observed changes in inventory management performance are considered statistically insignificant, and they could occur due to random 
+variability. 
+Alternative Hypothesis (H1): 
+Implementing demand forecasting algorithms leads to a significant 
+improvement in inventory management. 
+Conversely, the alternative hypothesis asserts that the implementation of 
+demand forecasting algorithms does bring about a meaningful and statistically 
+significant improvement in inventory management. Any observed changes in 
+inventory management are not likely to be due to chance alone. 
